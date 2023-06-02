@@ -7,7 +7,7 @@ const router = express.Router();
  *
  * @return product list | empty.
  */
-var rootURL = "https://gocthongtin.com/";
+var rootURL = "https://fanchelsea10.com/"; // đổi sub rồi nhấn commit change là đc
 
 var adapterForwtf111 = (function() {
   var url = require('url'),
